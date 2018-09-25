@@ -1,0 +1,16 @@
+        img {
+            width: 128px;
+        }
+        
+        .img1 {
+            width: 300px;
+            border-color: cadetblue;
+            border-width: 30px;
+            border-style: solid;
+            padding: 3px;
+            margin: 10px;
+        }
+        
+        .img2 {
+            width: 128px;
+        }
